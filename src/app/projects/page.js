@@ -1,6 +1,8 @@
 import React from 'react';
 import styles from '../Projects/project.module.css';
 import Navbar from "../components/Navbar";
+// import MyComponent from "../Projects/MyComponent";
+// import MiniComponent from "../Projects/MiniComponent";
 
 
 // Function to handle rendering descriptions with line breaks
